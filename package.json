@@ -1,0 +1,32 @@
+{
+  "name": "Hello-Books",
+  "version": "1.0.0",
+  "description": "Hello-Books",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon  ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adenmosun/Hello-Books.git"
+  },
+  "keywords": [
+    "books",
+    "library"
+  ],
+  "author": "adenmosun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adenmosun/Hello-Books/issues"
+  },
+  "homepage": "https://github.com/adenmosun/Hello-Books#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
