@@ -2,6 +2,13 @@
   "id": "1",
   "title": "book",
   "author": "Hello-Books",
-  "genre": "book",
-  "description": "book"
+  "category": "book",
+  "description": "book",
+  "photo": "link",
+  "quantity": "number",
+  "upvote": "number",
+  "reveiws": {
+    "id": "reveiw",
+    "id": "reveiw"
+  }
 }

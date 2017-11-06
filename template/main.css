@@ -12,8 +12,8 @@
 }
 
 .login-sidebar {
-  width: 800px;
-  height: 700px;
+  width: 60%;
+  height: 900px;
   background-image: url('image/sideImage.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
@@ -22,7 +22,7 @@
 }
 
 .login-sidebox {
-  width: 36%;
+  width: 30%;
   height: auto;
   background-color: white;
   margin-top: 10%;
@@ -31,27 +31,28 @@
 
 .login-sidebox h2 {
   font-weight: 100;
-  font-size: 18px;
+  font-size: 15px;
   margin-bottom: 10px;
 }
 
 .login-sidebox h3 {
   font-weight: 100;
-  font-size: 46px;
+  font-size: 40px;
   margin-bottom: 10px;
   font-family: courier;
   color: #FF905E;
 }
 
 .login-sidebox input {
-  width: 90%;
+  width: 70%;
   height: 30px;
   margin-bottom: 7px;
   border-radius: 2px;
   border: solid 0.5px #E1E8ED;
   outline: none;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 200;
+  float: left;
 }
 
 label {
@@ -62,22 +63,20 @@ label {
 }
 
 .login-sidebox .radio {
-  width: 30px;
-  float: left;
+  width: 50px;
+  /*float: left;*/
 }
 
-.login-sidebox .p {
-}
 
 button {
-  width: 90%;
+  width: 50%;
+  height: 40px;
   background-color: #7DA4A1;
   border: 0;
   color: white;
   border-radius: 3px;
-  padding: 5%;
-  margin-top: 20px;
-  font-size: 14px;
+  margin-top: 40px;
+  font-size: 12px;
 }
 
 .menu {
@@ -122,6 +121,8 @@ a{
   margin-left: 30px;
   font-family: courier;
   color: #FF905E;
+  list-style-type: none;
+
 }
 
 .library-classes {
@@ -130,17 +131,17 @@ a{
   float: left;
   position: relative;
   top: 90px;
-  border:  2px solid #33bebe;
+  /*border:  2px solid #33bebe;*/
   padding: 10px;
 }
 
 .library-lists {
   width: 55%;
-  height: 300px;
+  height: 700px;
   float: left;
   position: relative;
   top: 90px;
-  border:  2px solid #33bebe;
+  /*border:  2px solid #33bebe;*/
   padding: 10px;
 }
 
@@ -153,3 +154,196 @@ a{
   color: #33bebe;
   margin-top: 5px;
 }
+
+.book-card{
+  padding: 2%;
+  height: 20%;
+  /*border:  2px solid #33bebe;*/
+  width: 100%;
+}
+
+.book-photo{
+  padding: 2%;
+  width: 15%;
+  height: 98%;
+  float: left;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.book-details {
+  font-family: helvetica;
+  float: left;
+  display: flex;
+  margin-top: 2%;
+  width: 60%;
+}
+
+.book-details ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.book-details li {
+    float: left;
+}
+
+.book-actions {
+    height: 80%;
+    width: 20%;
+    float: right;
+    margin-right: 0;
+
+}
+
+.num-upvotes, .num-downvotes, .num-favorites {
+      font-weight: bold;
+      font-size: 14px;
+      text-align: left;
+    }
+ .upvote, .downvote, .favorite {
+      display: flex;
+      height: 30px;
+      text-align: center;
+      box-sizing: border-box;
+      padding: 5px;
+      padding-bottom: 8px;
+    }
+
+.reviews-requests {
+  /*border:  2px solid #33bebe;*/
+  width: 50%;
+  height: 40%;
+  display: inline-flex;
+  float: left;
+  margin-top: 10px;
+}
+
+.reviews {
+  /*border: : 2px solid #33bebe;*/
+  width: 50%;
+  height: 95%;
+  padding: 0.2%;
+  text-align: center;
+  color: #33bebe;
+}
+
+.requests {
+  /*border: : 2px solid #33bebe;*/
+  width: 50%;
+  height: 95%;
+  padding: 0.2%;
+  text-align: center;
+  color: #33bebe;
+}
+
+.profile-photo {
+  width: 25%;
+  height: 300px;
+  position: relative;
+  top: 90px;
+  margin-left: 37%;
+  margin-right: 30%;
+  border-radius: 3px;
+  /*border:  2px solid #33bebe;*/
+}
+
+.profile-details {
+  width: 25%;
+  height: 300px;
+  float: left;
+  position: relative;
+  margin-left: 37%;
+  margin-right: 30%;
+  top: 90px;
+  /*border:  2px solid #33bebe;*/
+  text-align: center;
+}
+
+.admin-items {
+  width: 25%;
+  height: 300px;
+  float: left;
+  position: relative;
+  top: 90px;
+  color: #33bebe;
+  padding: 10px;
+  margin-left: 1.5%;
+}
+
+
+.banner {
+  height: 500px;
+  /*background-image: url('image/bloga.png');*/
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 5%;
+}
+
+
+#blog {
+  width: 86%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#blog .post {
+  width: 62%;
+  margin-top: 0.5%;
+  margin-bottom: 7.5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.8;
+  color: #444444;
+}
+
+.post h2 {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.post h3 {
+  font-size: 16px;
+  color: #999999;
+}
+
+
+.post p,
+.post .image-container {
+  margin-bottom: 20px;
+}
+
+.post .image-container {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
