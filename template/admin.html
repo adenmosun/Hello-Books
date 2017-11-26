@@ -18,7 +18,12 @@
 		</ul>
 	</div>
 	<div class="admin-items">
-		<p>Edit Books</p>
+		<p>Add Books</p>
+		<form action="../server/models/books" method="POST">
+  <input type="text" placeholder="name" name="name">
+  <input type="text" placeholder="quote" name="quote">
+  <button type="submit">Submit</button>
+</form>
 		<p>Book Requests</p>
 		<p>Book Returns</p>
 	</div>

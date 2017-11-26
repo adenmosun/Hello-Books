@@ -1,14 +1,122 @@
-{
-  "id": "1",
-  "title": "book",
-  "author": "Hello-Books",
-  "category": "book",
-  "description": "book",
-  "photo": "link",
-  "quantity": "number",
-  "upvote": "number",
-  "reveiws": {
-    "id": "reveiw",
-    "id": "reveiw"
+[
+  {
+    "id": 1,
+    "title": "Phasellus Limited",
+    "author": "Diana Garrison",
+    "catetogry": "NonFiction",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "9",
+    "upvotes": "1",
+    "downvotes": "5"
+  },
+  {
+    "id": 2,
+    "title": "Et Pede Associates",
+    "author": "Bo Wade",
+    "catetogry": "Drama",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "8",
+    "upvotes": "6",
+    "downvotes": "3"
+  },
+  {
+    "id": 3,
+    "title": "Malesuada Integer Id Foundation",
+    "author": "Philip Hughes",
+    "catetogry": "Romance",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "4",
+    "upvotes": "1",
+    "downvotes": "4"
+  },
+  {
+    "id": 4,
+    "title": "Penatibus Limited",
+    "author": "Indira Gates",
+    "catetogry": "Romance",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "6",
+    "upvotes": "8",
+    "downvotes": "1"
+  },
+  {
+    "id": 5,
+    "title": "Et Associates",
+    "author": "Sebastian Abbott",
+    "catetogry": "Action",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "3",
+    "upvotes": "5",
+    "downvotes": "4"
+  },
+  {
+    "id": 6,
+    "title": "Pharetra Associates",
+    "author": "Marny Potter",
+    "catetogry": "NonFiction",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "1",
+    "upvotes": "8",
+    "downvotes": "6"
+  },
+  {
+    "id": 7,
+    "title": "Mattis Ornare Lectus Limited",
+    "author": "Baker Hardin",
+    "catetogry": "NonFiction",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "4",
+    "upvotes": "4",
+    "downvotes": "3"
+  },
+  {
+    "id": 8,
+    "title": "Viverra Maecenas Iaculis LLP",
+    "author": "Blair Park",
+    "catetogry": "Action",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "5",
+    "upvotes": "2",
+    "downvotes": "4"
+  },
+  {
+    "id": 9,
+    "title": "Nibh Industries",
+    "author": "Ciara Chang",
+    "catetogry": "Romance",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "8",
+    "upvotes": "2",
+    "downvotes": "1"
+  },
+  {
+    "id": 10,
+    "title": "Etiam PC",
+    "author": "Stacey Compton",
+    "catetogry": "Adventure",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "4",
+    "upvotes": "3",
+    "downvotes": "1"
+  },
+  {
+    "id": 11,
+    "title": "Ligula Consectetuer Rhoncus LLP",
+    "author": "Wyatt Wagner",
+    "catetogry": "Suspence",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "6",
+    "upvotes": "2",
+    "downvotes": "2"
+  },
+  {
+    "id": 12,
+    "title": "Eu Placerat Eget Industries",
+    "author": "Jena Cobb",
+    "catetogry": "Drama",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41%2BDYvEuRRL._SX300_BO1,204,203,200_.jpg",
+    "quantity": "5",
+    "upvotes": "3",
+    "downvotes": "2"
   }
-}
+]
