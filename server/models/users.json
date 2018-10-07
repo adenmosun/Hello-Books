@@ -1,0 +1,74 @@
+[
+  {
+    "userid": 1,
+    "username": "Lev",
+    "email": "ornare.egestas.ligula@aliquetlobortis.org",
+    "role": "user"
+  },
+  {
+    "userid": 2,
+    "username": "Mollie",
+    "email": "est.ac.facilisis@fringillaporttitor.org",
+    "role": "admin"
+  },
+  {
+    "userid": 3,
+    "username": "Ruth",
+    "email": "adipiscing.elit.Etiam@intempus.net",
+    "role": "admin"
+  },
+  {
+    "userid": 4,
+    "username": "Barry",
+    "email": "penatibus.et.magnis@etultricesposuere.co.uk",
+    "role": "admin"
+  },
+  {
+    "userid": 5,
+    "username": "Craig",
+    "email": "Nulla.facilisi@lacus.edu",
+    "role": "admin"
+  },
+  {
+    "userid": 6,
+    "username": "Ira",
+    "email": "placerat@ipsumdolor.edu",
+    "role": "admin"
+  },
+  {
+    "userid": 7,
+    "username": "Chancellor",
+    "email": "at.arcu.Vestibulum@telluseu.com",
+    "role": "user"
+  },
+  {
+    "userid": 8,
+    "username": "Kameko",
+    "email": "justo.sit.amet@amet.com",
+    "role": "admin"
+  },
+  {
+    "userid": 9,
+    "username": "Valentine",
+    "email": "mauris@dolordapibus.co.uk",
+    "role": "user"
+  },
+  {
+    "userid": 10,
+    "username": "Phelan",
+    "email": "augue.eu@velconvallis.net",
+    "role": "admin"
+  },
+  {
+    "userid": 11,
+    "username": "Kaden",
+    "email": "in.hendrerit@non.ca",
+    "role": "user"
+  },
+  {
+    "userid": 12,
+    "username": "Michael",
+    "email": "Nunc.ut@erategetipsum.net",
+    "role": "admin"
+  }
+]
